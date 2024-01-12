@@ -1,0 +1,322 @@
+Exporter version: 3.3.1, Blender version: 3.3.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\David.Fenkhuber\Desktop\animateDoorGIT\door\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of skeleton:  openArmature, id:  0
+		processing begun of bone:  boneOpen, index:  0
+		processing begun of bone:  boneHingeLeaf, index:  1
+		processing action lockAnimation:  in[1 - 160], out[0 - 160]
+		processing action openAnimation:  in[1 - 160], out[170 - 330]
+	processing begun of skeleton:  lockArmature, id:  1
+		processing begun of bone:  boneOpenLock, index:  0
+		processing begun of bone:  boneKey, index:  1
+		processing begun of bone:  boneHook2, index:  2
+		processing begun of bone:  boneBolt0, index:  3
+		processing begun of bone:  boneBolt1, index:  4
+		processing begun of bone:  boneHook0, index:  5
+		processing begun of bone:  boneHook1, index:  6
+		processing begun of bone:  boneBolt2, index:  7
+		processing action lockAnimation:  in[1 - 160], out[0 - 160]
+		processing action openAnimation:  in[1 - 160], out[170 - 330]
+	processing begun of mesh:  frameOutside
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  415
+		num normals        :  415
+		num tangents       :  1660
+		num uvs            :  830
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  278
+		WARNING: # of 0 area faces found:  4
+		Shape Keys:
+			height added
+			width added
+	processing begun of mesh:  leafOutside
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  895
+		num normals        :  895
+		num tangents       :  3580
+		num uvs            :  1790
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  680
+		Skeleton stats:  
+			Total Influencers:  895
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  895
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  3580
+		WARNING: # of 0 area faces found:  2
+		Shape Keys:
+			height added
+			width added
+	processing begun of mesh:  key
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  1150
+		num normals        :  1150
+		num tangents       :  4600
+		num uvs            :  2300
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1454
+		Skeleton stats:  
+			Total Influencers:  1150
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  1150
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  4600
+	processing begun of mesh:  windowSides
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  353
+		num normals        :  353
+		num tangents       :  1412
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  208
+		Skeleton stats:  
+			Total Influencers:  353
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  353
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  1412
+		Shape Keys:
+			height added
+			width added
+	processing begun of mesh:  leafInside
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  1047
+		num normals        :  1047
+		num tangents       :  4188
+		num uvs            :  2094
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  684
+		Skeleton stats:  
+			Total Influencers:  1047
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  1047
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  4188
+		Shape Keys:
+			height added
+			width added
+	processing begun of mesh:  frameInside
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  909
+		num normals        :  909
+		num tangents       :  3636
+		num uvs            :  1818
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  622
+		WARNING: # of 0 area faces found:  8
+		Shape Keys:
+			height added
+			width added
+	processing begun of mesh:  windowGlass
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  72
+		num normals        :  72
+		num tangents       :  288
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+		Skeleton stats:  
+			Total Influencers:  72
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  72
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  288
+		Shape Keys:
+			height added
+	processing begun of mesh:  sealingBottom
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  3029
+		num normals        :  3029
+		num tangents       :  12116
+		num uvs            :  6058
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1560
+		Skeleton stats:  
+			Total Influencers:  3029
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3029
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12116
+		WARNING: # of 0 area faces found:  244
+		Shape Keys:
+			width added
+	processing begun of mesh:  frameSill
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  1309
+		num normals        :  1309
+		num tangents       :  5236
+		num uvs            :  2618
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  808
+		WARNING: # of 0 area faces found:  96
+		Shape Keys:
+			width added
+	processing begun of mesh:  leafFrameOutside
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  7868
+		num normals        :  7868
+		num tangents       :  31472
+		num uvs            :  15736
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5804
+		Skeleton stats:  
+			Total Influencers:  15736
+			Avg # of influencers per vertex:  2
+			Highest # of influencers observed:  2, num vertices with this:  7868
+			exported as 2 influencers
+			num skeletonWeights and skeletonIndices:  31472
+		WARNING: # of 0 area faces found:  1974
+		Shape Keys:
+			height added
+			width added
+	processing begun of mesh:  sealingLeaf
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  9664
+		num normals        :  9664
+		num tangents       :  38656
+		num uvs            :  19328
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7768
+		Skeleton stats:  
+			Total Influencers:  9664
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  9664
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  38656
+		WARNING: # of 0 area faces found:  2464
+		Shape Keys:
+			height added
+			width added
+	processing begun of mesh:  hingeBarrel
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  7790
+		num normals        :  7790
+		num tangents       :  31160
+		num uvs            :  15580
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10572
+		Shape Keys:
+			height added
+	processing begun of mesh:  hingeLeaf0
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  850
+		num normals        :  850
+		num tangents       :  3400
+		num uvs            :  1700
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1048
+		Skeleton stats:  
+			Total Influencers:  850
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  850
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  3400
+	processing begun of mesh:  lockSet
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  9018
+		num normals        :  9018
+		num tangents       :  36072
+		num uvs            :  18036
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7970
+		Skeleton stats:  
+			Total Influencers:  9018
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  9018
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  36072
+		WARNING: # of 0 area faces found:  170
+		Shape Keys:
+			height added
+	processing begun of node:  hingeLeafes
+	processing begun of mesh:  hingeLeaf2
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  847
+		num normals        :  847
+		num tangents       :  3388
+		num uvs            :  1694
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1048
+		Skeleton stats:  
+			Total Influencers:  847
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  847
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  3388
+	processing begun of mesh:  hingeLeaf1
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  843
+		num normals        :  843
+		num tangents       :  3372
+		num uvs            :  1686
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1048
+		Skeleton stats:  
+			Total Influencers:  843
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  843
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  3372
+========= Writing of JSON file started =========
+	writing mesh:  frameOutside
+	writing mesh:  leafOutside
+	writing mesh:  key
+	writing mesh:  windowSides
+	writing mesh:  leafInside
+	writing mesh:  frameInside
+	writing mesh:  windowGlass
+	writing mesh:  sealingBottom
+	writing mesh:  frameSill
+	writing mesh:  leafFrameOutside
+	writing mesh:  sealingLeaf
+	writing mesh:  hingeBarrel
+	writing mesh:  hingeLeaf0
+	writing mesh:  lockSet
+	writing mesh:  hingeLeaf2
+	writing mesh:  hingeLeaf1
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.703 secs
